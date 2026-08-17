@@ -1,4 +1,4 @@
-# NTCC MINOR
+# NTCC MINOR 
 
 **SecureWealth AI** is an advanced, AI-powered assistant service designed for **banking professionals**. It leverages **Retrieval-Augmented Generation (RAG)** with a **LangGraph orchestrator** to provide accurate, context-aware responses based on customer financial data — accounts, transactions, and banking records.
 
