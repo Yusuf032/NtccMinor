@@ -1,5 +1,4 @@
 # NtccMinor
-SecureWealth AI 🏦🤖
 SecureWealth AI is an advanced, AI-powered assistant service designed for banking professionals. It leverages Retrieval-Augmented Generation (RAG) with a LangGraph orchestrator to provide accurate, context-aware responses based on customer financial data — accounts, transactions, and banking records.
 
 Built with FastAPI, Celery, Qdrant, and LangGraph, this service ensures high performance, security, and scalability for production banking environments.
